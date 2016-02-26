@@ -1,6 +1,6 @@
 #!/bin/bash
 TAG=latest
-VERSION=3.3.9
+VERSION=7
 if [ $# -eq 1 ]
   then
     VERSION=$1
